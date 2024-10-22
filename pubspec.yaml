@@ -97,6 +97,7 @@ dependencies:
   shared_preferences_web: 2.2.1
   sign_in_with_apple: 4.3.0
   sign_in_with_apple_platform_interface: 1.0.0
+  receive_sharing_intent: ^1.8.1
   sign_in_with_apple_web: 1.0.1
   sqflite: 2.2.6
   stream_transform: 2.1.0
