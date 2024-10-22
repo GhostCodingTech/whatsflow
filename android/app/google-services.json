@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "879875876695",
+    "project_id": "basic-whatsflow",
+    "storage_bucket": "basic-whatsflow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879875876695:android:c0c2a5b9b8f4b94f6c0012",
+        "android_client_info": {
+          "package_name": "com.mycompany.basicwhatsflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb3TbGW0O5wF92RzSjTCYqey5tLiFi2Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879875876695:android:3cbbe6d29d3ce8986c0012",
+        "android_client_info": {
+          "package_name": "com.mycompany.whatsflowbasic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb3TbGW0O5wF92RzSjTCYqey5tLiFi2Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
